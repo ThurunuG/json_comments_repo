@@ -3,60 +3,80 @@
       "id": 1,
       "name": "James Dave",
       "email": "james@gmail.com",
+      "rating": "4.8",
+      "likes": "10",
       "comment": "Very good shop with quality products and quality services"
     },
     {
       "id": 2,
       "name": "Freddy Hacks",
       "email": "freddy@gmail.com",
+      "rating": "4.5",
+      "likes": "12",
       "comment": "Provide high quality service and prodcuts. Good barnds available."
     },
     {
       "id": 3,
       "name": "Jenny Vega",
       "email": "jenny@gmail.com",
+      "rating": "4.4",
+      "likes": "8",
       "comment": "Very good stationery shop with quality products and quality services"
     },
     {
       "id": 4,
       "name": "Lime Sands",
       "email": "lime@gmail.com",
+      "rating": "4.8",
+      "likes": "13",
       "comment": "Best shop to buy statinery products and brands. Very good service."
     },
     {
       "id": 5,
       "name": "Perry Alex",
       "email": "perry@gmail.com",
+      "rating": "4.9",
+      "likes": "15",
       "comment": "I always love to buy buy stationery products from this shop for all of my work"
     },
     {
       "id": 6,
       "name": "Babby Toms",
       "email": "bobby@gmail.com",
+      "rating": "4.0",
+      "likes": "7",
       "comment": "Very good and interesting stationery shop with quality products and quality services"
     },
     {
       "id": 7,
       "name": "Kane Willi",
       "email": "kane@gmail.com",
+      "rating": "4.5",
+      "likes": "10",
       "comment": "One of the Best shop to buy statinery products and brands. Very good service."
     },
     {
      "id": 8,
       "name": "Otori Hops",
       "email": "otori@gmail.com",
+      "rating": "4.6",
+      "likes": "11",
       "comment": "I love this shop. I always buy all the ststionery prodcuts from this shop"
     },
     {
      "id": 9,
       "name": "Vani Sams",
       "email": "vani@gmail.com",
+      "rating": "4.7",
+      "likes": "13",
       "comment": "Very good stationery shop with quality products and quality brands"
     },
     {
       "id": 10,
       "name": "Christ George",
       "email": "christ@gmail.com",
+      "rating": "4.9",
+      "likes": "14",
       "comment": "I always love to buy ststionery products from this shop. It is high quality and great."
     }
   ]
